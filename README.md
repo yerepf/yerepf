@@ -1,28 +1,17 @@
-# 👋 Hola, soy Yeremy Yael Pujols Félix
+# 👋 Hola, ¡Yeremy de este lado!
 
 Desarrollador de software con formación técnica en **Desarrollo y Administración de Aplicaciones Informáticas** (República Dominicana) y experiencia en proyectos reconocidos a nivel nacional. Apasionado por la creación de soluciones innovadoras, aprendizaje constante y el trabajo en equipo.
-
 ---
 
 ## 💻 Habilidades Técnicas
-
-### **Frontend**
-- Angular (TypeScript)
-- Tailwind CSS, Bootstrap, PrimeNG, ChartJS
-
-### **Backend**
-- Node.js (JavaScript)
-
-### **Bases de Datos**
-- MySQL
-- SQL Server
-
-### **Aplicaciones de Escritorio**
-- WinForms (C#)
-
-### **Otros Lenguajes**
-- C++ (base de aprendizaje)
-- Python (desarrollo de lógica)
+![yerepf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yerepf&theme=dracula&show_icons=true&hide_border=false&layout=compact) 
+| **Área**                    | **Tecnologías**                                         |
+|----------------------------|----------------------------------------------------------|
+| **Frontend**               | Angular (TypeScript), Tailwind CSS, Bootstrap, PrimeNG, ChartJS |
+| **Backend**                | Node.js (JavaScript)                                     |
+| **Bases de Datos**         | MySQL, SQL Server                                        |
+| **Aplicaciones de Escritorio** | WinForms (C#)                                         |
+| **Otros Lenguajes**        | C++ (base de aprendizaje), Python (desarrollo de lógica) |
 
 ---
 
