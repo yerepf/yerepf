@@ -34,7 +34,7 @@ Desarrollador de software con formación técnica en **Desarrollo y Administraci
   - Sistema de control de asistencia estudiantil automatizado.
 
 - **Sitio web para el Centro de Enseñanza Las Joyas de Cristo**
-  - Desarrollo integral, diseño responsivo y funcionalidades personalizadas.
+  - Desarrollo integral, diseño responsivo y funcionalidades personalizadas. [Accede aquí](https://lasjoyasdecristo.netlify.app/)
 
 - **Sistema de Facturación para PFTechnology**
   - Aplicación de escritorio en WinForms (C#) con generación de códigos de barra, facturas, reportes, escaneo móvil y envío de facturas por email.
