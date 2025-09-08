@@ -8,8 +8,8 @@ Desarrollador de software con formación técnica en **Desarrollo y Administraci
 | **Área**                    | **Tecnologías**                                         |
 |----------------------------|----------------------------------------------------------|
 | **Frontend**               | Angular (TypeScript), Tailwind CSS, Bootstrap, PrimeNG, ChartJS |
-| **Backend**                | Node.js (JavaScript)                                     |
-| **Bases de Datos**         | MySQL, SQL Server                                        |
+| **Backend**                | Node.js (JavaScript), FastAPI (Python), Firebase Database                                     |
+| **Bases de Datos**         | MySQL, SQL Server, PostgreSQL                                        |
 | **Aplicaciones de Escritorio** | WinForms (C#)                                         |
 | **Otros Lenguajes**        | C++ (base de aprendizaje), Python (desarrollo de lógica) |
 
@@ -45,6 +45,8 @@ Desarrollador de software con formación técnica en **Desarrollo y Administraci
 
 - **International Travel Exchange (ITEX)**
   - Pasantía como Asistente Corporativo (9 meses).
+- **Banco Popular Dominicano**
+  - Pasantía como Habilitador IT I (1 mes).
 
 ---
 
