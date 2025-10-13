@@ -25,7 +25,7 @@ Desarrollador de software con formación técnica en **Desarrollo y Administraci
 - **Desarrollador de JavaScript (Node.js)** *(Fundación Carlos Slim)*
 - **Desarrollador de JavaScript (React)** *(Fundación Carlos Slim)*
 - **Galactic Problem Solver** *(Nasa Internacional Space Apps Challenge)*
-- **ISO 27001L Information Scurity Management Systems Certified** *(Seguridad Cero)*
+- **ISO 27001 Information Security Management Systems Certified** *(Seguridad Cero)*
 - **API Beginner Path** *(Postman)*
 
 ---
