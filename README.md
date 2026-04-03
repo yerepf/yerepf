@@ -1,18 +1,59 @@
 # 👋 Hola, ¡Yeremy de este lado!
 
 Desarrollador de software con formación técnica en **Desarrollo y Administración de Aplicaciones Informáticas** (República Dominicana) y experiencia en proyectos reconocidos a nivel nacional. Apasionado por la creación de soluciones innovadoras, aprendizaje constante y el trabajo en equipo. 
-[![committers.top badge](https://user-badge.committers.top/dominican_republic_public/yerepf.svg)](https://user-badge.committers.top/dominican_republic_public/yerepf)
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2000&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=453&lines=Software+Developer;Backend+Developer" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://user-badge.committers.top/dominican_republic_public/yerepf">
+    <img src="https://user-badge.committers.top/dominican_republic_public/yerepf.svg" alt="committers.top badge" />
+  </a>
+</p>
+
 ---
 
+
 ## 💻 Habilidades Técnicas
-![yerepf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yerepf&theme=dracula&show_icons=true&hide_border=false&layout=compact) 
-| **Área**                    | **Tecnologías**                                         |
-|----------------------------|----------------------------------------------------------|
-| **Frontend**               | Angular TS, Astro, React Vite TS, Tailwind CSS, Bootstrap |
-| **Backend**                | Node.js, FastAPI, Google Firebase |
-| **Bases de Datos**         | MySQL, SQL Server, PostgreSQL|
-| **Aplicaciones de Escritorio** | WinForms (C#) |
-| **Otros Lenguajes**        | C++ (base de aprendizaje), Python (desarrollo de lógica) |
+<table>
+  <tr>
+    <td>
+      <img src="./profile/top-langs.svg" width="300"/>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <th>Área</th>
+          <th>Tecnologías</th>
+        </tr>
+        <tr>
+          <td>Frontend</td>
+          <td>Angular TS, Astro, React Vite TS, Tailwind CSS, Bootstrap</td>
+        </tr>
+        <tr>
+          <td>Backend</td>
+          <td>Node.js, FastAPI, Google Firebase</td>
+        </tr>
+        <tr>
+          <td>Bases de Datos</td>
+          <td>MySQL, SQL Server, PostgreSQL</td>
+        </tr>
+        <tr>
+          <td>Aplicaciones de Escritorio</td>
+          <td>WinForms (C#)</td>
+        </tr>
+        <tr>
+          <td>Otros Lenguajes</td>
+          <td>C++, Python</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
