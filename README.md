@@ -1,6 +1,6 @@
 <img width="1584" height="396" alt="Banner Desarrollador Web Programador Elegante Minimalista Blanco y Negro" src="https://github.com/user-attachments/assets/b9c9a15f-cddc-4be3-815c-d05580b56f2a" />
 
-# 👋 Sup, ¡Yere de este lado!
+<h1 align="center">Sup, ¡Yere de este lado! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 > Desarrollador de software enfocado en crear soluciones de alto impacto, con formación en Desarrollo de Aplicaciones Informáticas y experiencia práctica en proyectos reales y reconocidos a nivel nacional. He trabajado con tecnologías modernas en frontend y backend, participando en iniciativas como la NASA Space Apps Challenge y desarrollando productos utilizados por usuarios reales. Apasionado por la arquitectura de software, el aprendizaje continuo y la construcción de herramientas que resuelven problemas reales. 
 
