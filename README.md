@@ -1,6 +1,6 @@
 # 👋 Hola, ¡Yeremy de este lado!
 
-Desarrollador de software con formación técnica en **Desarrollo y Administración de Aplicaciones Informáticas** (República Dominicana) y experiencia en proyectos reconocidos a nivel nacional. Apasionado por la creación de soluciones innovadoras, aprendizaje constante y el trabajo en equipo.
+Desarrollador de software con formación técnica en **Desarrollo y Administración de Aplicaciones Informáticas** (República Dominicana) y experiencia en proyectos reconocidos a nivel nacional. Apasionado por la creación de soluciones innovadoras, aprendizaje constante y el trabajo en equipo. [![committers.top badge](https://user-badge.committers.top/dominican_republic/USERNAME.svg)](https://user-badge.committers.top/dominican_republic/USERNAME)
 ---
 
 ## 💻 Habilidades Técnicas
