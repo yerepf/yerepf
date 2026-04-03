@@ -1,4 +1,6 @@
-# 👋 Hola, ¡Yeremy de este lado!
+<img width="1584" height="396" alt="Banner Desarrollador Web Programador Elegante Minimalista Blanco y Negro" src="https://github.com/user-attachments/assets/b9c9a15f-cddc-4be3-815c-d05580b56f2a" />
+
+# 👋 Sup, ¡Yere de este lado!
 
 Desarrollador de software con formación técnica en **Desarrollo y Administración de Aplicaciones Informáticas** (República Dominicana) y experiencia en proyectos reconocidos a nivel nacional. Apasionado por la creación de soluciones innovadoras, aprendizaje constante y el trabajo en equipo. 
 
