@@ -1,6 +1,7 @@
 # 👋 Hola, ¡Yeremy de este lado!
 
-Desarrollador de software con formación técnica en **Desarrollo y Administración de Aplicaciones Informáticas** (República Dominicana) y experiencia en proyectos reconocidos a nivel nacional. Apasionado por la creación de soluciones innovadoras, aprendizaje constante y el trabajo en equipo. [![committers.top badge](https://user-badge.committers.top/dominican_republic/yerepf.svg)](https://user-badge.committers.top/dominican_republic/yerepf)
+Desarrollador de software con formación técnica en **Desarrollo y Administración de Aplicaciones Informáticas** (República Dominicana) y experiencia en proyectos reconocidos a nivel nacional. Apasionado por la creación de soluciones innovadoras, aprendizaje constante y el trabajo en equipo. 
+[![committers.top badge](https://user-badge.committers.top/dominican_republic_public/yerepf.svg)](https://user-badge.committers.top/dominican_republic_public/yerepf)
 ---
 
 ## 💻 Habilidades Técnicas
