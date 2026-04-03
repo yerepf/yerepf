@@ -2,7 +2,8 @@
 
 # 👋 Sup, ¡Yere de este lado!
 
-Desarrollador de software con formación técnica en **Desarrollo y Administración de Aplicaciones Informáticas** (República Dominicana) y experiencia en proyectos reconocidos a nivel nacional. Apasionado por la creación de soluciones innovadoras, aprendizaje constante y el trabajo en equipo. 
+> Desarrollador de software enfocado en crear soluciones de alto impacto, con formación en Desarrollo de Aplicaciones Informáticas y experiencia práctica en proyectos reales y reconocidos a nivel nacional. He trabajado con tecnologías modernas en frontend y backend, participando en iniciativas como la NASA Space Apps Challenge y desarrollando productos utilizados por usuarios reales. Apasionado por la arquitectura de software, el aprendizaje continuo y la construcción de herramientas que resuelven problemas reales. 
+
 
 
 <p align="center">
@@ -84,11 +85,11 @@ Desarrollador de software con formación técnica en **Desarrollo y Administraci
   - Proyecto de código abierto creado con Astro que permite generar páginas estilo Linktree personalizables usando archivos Markdown.
   - Facilita la gestión de enlaces personales o profesionales (GitHub, redes, portafolios, proyectos) en una única página compilada automáticamente.
 
-- [**Quisqueya STEM**](https://quisqueya-stem.vercel.app/)
+- [**Quisqueya STEM**](https://quisqueya-stem.vercel.app/) :boom: **150 usuarios en 15 Dias**
   - Plataforma web desarrollada para que cualquier dominicano pueda descubrir y compartir certificaciones STEM gratuitas.
   - Promueve el aprendizaje accesible en ciencia, tecnología, ingeniería y matemáticas, centralizando en un solo lugar oportunidades educativas disponibles en línea.
 
-- [**C.R.A.S.H**](https://crashnasa.earth)
+- [**C.R.A.S.H**](https://crashnasa.earth) :rocket: **Mejor uso de la data**
   - Aplicación creada durante la hackathon de la NASA para el mejor uso de la data, enfocada en el análisis de trayectorias de asteroides cercanos a la Tierra.
   - Permite visualizar, simular y comprender los riesgos potenciales de impacto, utilizando datos reales de la NASA de manera interactiva y educativa.
 
@@ -112,20 +113,24 @@ Desarrollador de software con formación técnica en **Desarrollo y Administraci
 ## 🌐 Idiomas
 
 - Español (Nativo)
-- Inglés (B1, TOEFL 60 puntos)
+- Inglés (B2)
 
 ---
 
 ## 🤖 Fun Facts & Hobbies
 
 - Inicié en el mundo de la tecnología creando videojuegos en Scratch.
-- Toco batería y juego voleibol en mi tiempo libre.
+- Toco batería en la iglesia
+- Soy deportista, practico voleibol.
+- Mi PB resolviendo el cubo de rubik 3x3x3 es de 19.72s
 
 ---
 
 ## 📫 Conecta conmigo
 
+[Portfolio](https://yere.my)
 [LinkedIn](https://www.linkedin.com/in/yeremy-yael-pujols-f%C3%A9lix-a34271340/)
+[Otros enlaces](linktree.yere.my)
 
 ---
 
