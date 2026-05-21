@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Yeremy Pujols' GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 9, Total Commits  (last year) : 158, Total PRs: 32, Total Issues: 10, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 9, Total Commits  (last year) : 158, Total PRs: 32, Total Issues: 10, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 164.9218578869458;
+        stroke-dashoffset: 165.47301449283867;
       }
     }
   
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >3</text>
+      >2</text>
     </g>
   </g>
     </svg>
