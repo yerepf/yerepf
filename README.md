@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="Elegant Minimalist Black and White Web Developer Programmer Banner" src="https://github.com/user-attachments/assets/b9c9a15f-cddc-4be3-815c-d05580b56f2a" />
+<img width="1584" height="396" alt="Elegant Minimalist Black and White Web Developer Programmer Banner" src="https://github.com/user-attachments/assets/5a11e0e4-66dd-492f-9ec1-33d6662f407a" />
+
 
 <h1 align="center">Sup, Yere here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
