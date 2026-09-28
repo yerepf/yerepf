@@ -1,10 +1,8 @@
-<img width="1584" height="396" alt="Banner Desarrollador Web Programador Elegante Minimalista Blanco y Negro" src="https://github.com/user-attachments/assets/b9c9a15f-cddc-4be3-815c-d05580b56f2a" />
+<img width="1584" height="396" alt="Elegant Minimalist Black and White Web Developer Programmer Banner" src="https://github.com/user-attachments/assets/b9c9a15f-cddc-4be3-815c-d05580b56f2a" />
 
-<h1 align="center">Sup, ¡Yere de este lado! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Sup, Yere here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-> Desarrollador de software enfocado en crear soluciones de alto impacto, con formación en Desarrollo de Aplicaciones Informáticas y experiencia práctica en proyectos reales y reconocidos a nivel nacional. He trabajado con tecnologías modernas en frontend y backend, participando en iniciativas como la NASA Space Apps Challenge y desarrollando productos utilizados por usuarios reales. Apasionado por la arquitectura de software, el aprendizaje continuo y la construcción de herramientas que resuelven problemas reales. 
-
-
+> Software Developer focused on building high-impact solutions, with a background in Software Application Development and hands-on experience working on real-world projects recognized at the national level. I've worked with modern frontend and backend technologies, participated in initiatives such as the NASA Space Apps Challenge, and built products used by real users. Passionate about software architecture, continuous learning, and building tools that solve real-world problems.
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -20,8 +18,8 @@
 
 ---
 
+## 💻 Technical Skills
 
-## 💻 Habilidades Técnicas
 <table>
   <tr>
     <td>
@@ -30,8 +28,8 @@
     <td>
       <table>
         <tr>
-          <th>Área</th>
-          <th>Tecnologías</th>
+          <th>Area</th>
+          <th>Technologies</th>
         </tr>
         <tr>
           <td>Frontend</td>
@@ -42,15 +40,15 @@
           <td>Node.js, FastAPI, Google Firebase</td>
         </tr>
         <tr>
-          <td>Bases de Datos</td>
+          <td>Databases</td>
           <td>MySQL, SQL Server, PostgreSQL</td>
         </tr>
         <tr>
-          <td>Aplicaciones de Escritorio</td>
+          <td>Desktop Applications</td>
           <td>WinForms (C#)</td>
         </tr>
         <tr>
-          <td>Otros Lenguajes</td>
+          <td>Other Languages</td>
           <td>C++, Python</td>
         </tr>
       </table>
@@ -60,78 +58,89 @@
 
 ---
 
-## 📂 Certificaciones
+## 📂 Certifications
 
-- **Asistente Web** *(Fundación Carlos Slim, Capacítate para el Empleo)*
-- **Visualizador de Datos** *(Fundación Carlos Slim)*
-- **Desarrollador de Sitios Web Responsivos** *(Fundación Carlos Slim)*
-- **Programador en C#** *(Fundación Carlos Slim)*
-- **Técnico en Informática (Ofimática)** *(Fundación Carlos Slim)*
-- **Desarrollador de JavaScript (Node.js)** *(Fundación Carlos Slim)*
-- **Desarrollador de JavaScript (React)** *(Fundación Carlos Slim)*
-- **Galactic Problem Solver** *(Nasa Internacional Space Apps Challenge)*
-- **ISO 27001 Information Security Management Systems Certified** *(Seguridad Cero)*
-- **API Beginner Path** *(Postman)*
-
----
-
-## 🏆 Proyectos Destacados
-
-- **ATS (Attendance Tracking System)**
-  - Reconocido por el Ministerio de Educación de República Dominicana.
-  - Sistema de control de asistencia estudiantil automatizado.
-
-- [**Awesome Linktree**](https://github.com/yerepf/awesome-linktree)
-  - Proyecto de código abierto creado con Astro que permite generar páginas estilo Linktree personalizables usando archivos Markdown.
-  - Facilita la gestión de enlaces personales o profesionales (GitHub, redes, portafolios, proyectos) en una única página compilada automáticamente.
-
-- [**Quisqueya STEM**](https://quisqueya-stem.vercel.app/) :boom: **150 usuarios en 15 Dias**
-  - Plataforma web desarrollada para que cualquier dominicano pueda descubrir y compartir certificaciones STEM gratuitas.
-  - Promueve el aprendizaje accesible en ciencia, tecnología, ingeniería y matemáticas, centralizando en un solo lugar oportunidades educativas disponibles en línea.
-
-- [**C.R.A.S.H**](https://crashnasa.earth) :rocket: **Mejor uso de la data**
-  - Aplicación creada durante la hackathon de la NASA para el mejor uso de la data, enfocada en el análisis de trayectorias de asteroides cercanos a la Tierra.
-  - Permite visualizar, simular y comprender los riesgos potenciales de impacto, utilizando datos reales de la NASA de manera interactiva y educativa.
-
-- [**Sitio web para el Centro de Enseñanza Las Joyas de Cristo**](https://lasjoyasdecristo.netlify.app/)
-  - Desarrollo integral, diseño responsivo y funcionalidades personalizadas.
-
-- **Sistema de Facturación para PFTechnology**
-  - Aplicación de escritorio en WinForms (C#) con generación de códigos de barra, facturas, reportes, escaneo móvil y envío de facturas por email.
+* **IT Essentials** *(Cisco Networking Academy)*
+* **C++ Essentials 1** *(Cisco Networking Academy)*
+* **Cybersecurity Fundamentals** *(Google - Coursera)*
+* **Web Assistant** *(Carlos Slim Foundation, Capacítate para el Empleo)*
+* **Data Visualizer** *(Carlos Slim Foundation)*
+* **Responsive Website Developer** *(Carlos Slim Foundation)*
+* **C# Programmer** *(Carlos Slim Foundation)*
+* **Computer Technician (Office Applications)** *(Carlos Slim Foundation)*
+* **JavaScript Developer (Node.js)** *(Carlos Slim Foundation)*
+* **JavaScript Developer (React)** *(Carlos Slim Foundation)*
+* **Galactic Problem Solver** *(NASA International Space Apps Challenge)*
+* **ISO 27001 Information Security Management Systems Certified** *(Seguridad Cero)*
+* **API Beginner Path** *(Postman)*
 
 ---
 
-## 💼 Experiencia
+## 🏆 Featured Projects
 
-- **International Travel Exchange (ITEX)**
-  - Pasantía como Asistente Corporativo (9 meses).
-- **Banco Popular Dominicano**
-  - Pasantía como Habilitador IT I (1 mes).
+* **ATS (Attendance Tracking System)**
+
+  * Recognized by the Ministry of Education of the Dominican Republic.
+  * Automated student attendance tracking system.
+
+* [**Awesome Linktree**](https://github.com/yerepf/awesome-linktree)
+
+  * Open-source project built with Astro that allows users to generate customizable Linktree-style pages using Markdown files.
+  * Makes it easy to manage personal or professional links (GitHub, social media, portfolios, projects) on a single automatically generated page.
+
+* [**Quisqueya STEM**](https://quisqueya-stem.vercel.app/) :boom: **150 users in 15 days**
+
+  * Web platform built to help anyone in the Dominican Republic discover and share free STEM certifications.
+  * Promotes accessible learning in science, technology, engineering, and mathematics by centralizing online educational opportunities in one place.
+
+* [**C.R.A.S.H**](https://crashnasa.earth) :rocket: **Best Use of Data**
+
+  * Application developed during the NASA Space Apps Challenge, focused on analyzing near-Earth asteroid trajectories.
+  * Allows users to visualize, simulate, and understand potential impact risks using real NASA data in an interactive and educational way.
+
+* [**Website for Las Joyas de Cristo Educational Center**](https://lasjoyasdecristo.netlify.app/)
+
+  * Full website development, responsive design, and custom functionality.
+
+* **PFTechnology Billing System**
+
+  * Desktop application built with WinForms (C#), featuring barcode generation, invoicing, reporting, mobile scanning, and email invoice delivery.
 
 ---
 
-## 🌐 Idiomas
+## 💼 Experience
 
-- Español (Nativo)
-- Inglés (B2)
+* **International Travel Exchange (ITEX)**
+
+  * Corporate Assistant Intern (9 months).
+* **Banco Popular Dominicano**
+
+  * IT Enabler I Intern (1 month).
+
+---
+
+## 🌐 Languages
+
+* Spanish (Native)
+* English (B2)
 
 ---
 
 ## 🤖 Fun Facts & Hobbies
 
-- Inicié en el mundo de la tecnología creando videojuegos en Scratch.
-- Toco batería en la iglesia
-- Soy deportista, practico voleibol.
-- Mi PB resolviendo el cubo de rubik 3x3x3 es de 19.72s
+* I got into technology by creating video games with Scratch.
+* I play drums at church.
+* I'm into sports and play volleyball.
+* My personal best solving a 3x3x3 Rubik's Cube is **19.72s**.
 
 ---
 
-## 📫 Conecta conmigo
+## 📫 Connect With Me
 
 [Portfolio](https://yere.my)
 [LinkedIn](https://www.linkedin.com/in/yeremy-yael-pujols-f%C3%A9lix-a34271340/)
-[Otros enlaces](linktree.yere.my)
+[Other Links](https://linktree.yere.my)
 
 ---
 
-_¡Gracias por visitar mi perfil!_
+*Thanks for visiting my profile!*
